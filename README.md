@@ -139,6 +139,10 @@ Restart Claude Code (or reload skills) and the skill becomes invokable.
 
 ---
 
+## Credits
+
+Originally authored by [**mdismail-cse**](https://github.com/mdismail-cse) — see the upstream repo at [mdismail-cse/multi-agent-debate-skill](https://github.com/mdismail-cse/multi-agent-debate-skill). This fork is maintained by [**abdur-emon**](https://github.com/abdur-emon).
+
 ## License
 
-Private. Do not redistribute without permission.
+Released under the [MIT License](LICENSE).
