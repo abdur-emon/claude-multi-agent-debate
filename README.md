@@ -182,10 +182,6 @@ multi-agent-debate/
 
 ---
 
-## Credits
-
-Originally authored by [**mdismail-cse**](https://github.com/mdismail-cse) — see the upstream repo at [mdismail-cse/multi-agent-debate-skill](https://github.com/mdismail-cse/multi-agent-debate-skill). This fork is maintained by [**abdur-emon**](https://github.com/abdur-emon).
-
 ## License
 
 Released under the [MIT License](LICENSE).
